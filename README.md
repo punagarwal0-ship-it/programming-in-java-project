@@ -113,4 +113,5 @@ Add terminal screenshots here after running the project. Recommended screenshots
 
 ## Author
 
-Add your name, registration number, and course details before submission.
+NAME: Puneet Agarwal
+Reg no.: 25BAI11166

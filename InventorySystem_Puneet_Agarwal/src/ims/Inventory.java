@@ -1,16 +1,11 @@
-
+package ims;
 import java.io.*; import java.lang.reflect.Field; import java.nio.file.*; import java.util.*;
 public class Inventory {
     private final TreeMap<Integer,Product> products=new TreeMap<>(); private final ArrayList<Supplier> suppliers=new ArrayList<>();
     private final Path productFile=Paths.get("data","inventory.txt"), supplierFile=Paths.get("data","suppliers.txt"), historyFile=Paths.get("data","stock_history.txt");
+    public Inventory(){load();}
 
-    public Inventory(){
-        load();}
-
-    public void addProduct(Product p){
-        if(products.containsKey(p.getId()))throw new IllegalArgumentException("Product ID already exists.");
-        products.put(p.getId(),p);
-        save();}
+    public void addProduct(Product p){if(products.containsKey(p.getId()))throw new IllegalArgumentException("Product ID already exists.");products.put(p.getId(),p);save();}
 
     private Product get(int id){Product p=products.get(id);if(p==null)throw new IllegalArgumentException("Product not found.");return p;}
 

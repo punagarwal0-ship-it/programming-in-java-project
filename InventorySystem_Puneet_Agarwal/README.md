@@ -36,7 +36,15 @@ java -version
 javac -version
 ```
 
-## Compile and Run — Windows PowerShell
+## Install, Compile and Run
+
+1. Clone the repository:
+
+```bash
+git clone <your-public-repository-url>
+cd programming-in-java-project/InventorySystem_Puneet_Agarwal
+```
+
 From the project root:
 ```powershell
 javac -d out src\ims\*.java

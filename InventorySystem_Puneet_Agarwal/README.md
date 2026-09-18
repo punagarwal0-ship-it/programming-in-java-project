@@ -4,7 +4,7 @@
 **Registration No.:** 25BAI11166
 
 ## Overview
-A plain Java 17 console application for managing products, stock, suppliers, prices, low-stock alerts, reports, and stock history.
+A Java console application for managing products, stock, suppliers, prices, low-stock alerts, reports, and stock history.
 
 ## Features
 - Add electronic and grocery products

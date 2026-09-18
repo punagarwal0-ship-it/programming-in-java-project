@@ -70,6 +70,3 @@ InventorySystem/
 └── data/
     └── (created automatically)
 ```
-
-## No Maven Required
-This project intentionally uses standard Java compilation with `javac` and `java`. There is no pom.xml and no Maven setup.

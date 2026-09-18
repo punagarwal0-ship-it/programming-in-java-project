@@ -29,8 +29,7 @@ A Java console application for managing products, stock, suppliers, prices, low-
 - **File I/O:** local persistent data
 
 ## Requirements
-**JDK 17 or newer.** No Maven, database server, or external library is required.
-
+**JDK 17 or newer.**
 Check Java:
 ```powershell
 java -version

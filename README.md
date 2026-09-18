@@ -37,8 +37,6 @@ Inventory Management System is a command-line Java application for managing prod
 ```text
 InventorySystem/
 ├── pom.xml
-├── README.md
-├── statement.md
 ├── src/
 │   ├── main/
 │   │   └── java/
@@ -56,6 +54,8 @@ InventorySystem/
 │           └── ims/
 │               └── InventoryTest.java
 └── data/
+README.md
+statement.md
 ```
 
 ## Requirements

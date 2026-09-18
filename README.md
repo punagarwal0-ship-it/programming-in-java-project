@@ -54,8 +54,8 @@ InventorySystem/
 │           └── ims/
 │               └── InventoryTest.java
 └── data/
-README.md
-statement.md
+README.md/
+statement.md/
 ```
 
 ## Requirements

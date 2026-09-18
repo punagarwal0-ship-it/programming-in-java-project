@@ -62,9 +62,9 @@ Run the application and test adding products, searching, changing prices, adding
 
 ## Project Structure
 ```text
+README.md
+statement.md
 InventorySystem/
-├── README.md
-├── statement.md
 ├── src/
 │   └── ims/
 │       ├── Main.java

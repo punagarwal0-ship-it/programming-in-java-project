@@ -1,5 +1,3 @@
-# Project Statement
-
 ## Problem Statement
 
 Small shops and college-level store operations often maintain product, supplier, and stock details manually. This can cause incorrect stock counts, missed reorder requirements, and difficulty in preparing inventory reports. A simple computerized system is needed to store product information, update stock, manage suppliers, and provide useful reports.

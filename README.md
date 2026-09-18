@@ -69,7 +69,7 @@ InventorySystem/
 1. Clone the repository:
 
 ```bash
-git clone <your-public-repository-url>
+git clone https://github.com/punagarwal0-ship-it/programming-in-java-project
 cd InventorySystem
 ```
 
@@ -113,5 +113,6 @@ Add terminal screenshots here after running the project. Recommended screenshots
 
 ## Author
 
-NAME: Puneet Agarwal
+Name: Puneet Agarwal
+
 Reg no.: 25BAI11166
